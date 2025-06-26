@@ -88,7 +88,7 @@ services:
 
 ```
 
-🫡Responsabilidades:
+🫡 **Responsabilidades:**
 
 - **`models`**: define a estrutura de dados.
 - **`services`**: lida com lógica de aplicação e banco.
